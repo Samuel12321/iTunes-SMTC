@@ -1,3 +1,5 @@
+Track ModernFlyouts Optional package plan: https://github.com/Samuel12321/iTunes-SMTC/projects/1
+
 # Media Controller for iTunes
 
 Integrates iTunes with Windows 10/11 system media controls
